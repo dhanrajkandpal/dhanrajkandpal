@@ -1,14 +1,8 @@
-<div align="center">
+# Hi, I'm Dhanraj Kandpal
 
-<h1>Hi, I'm Dhanraj Kandpal</h1>
+### Aspiring AI/ML Engineer | Python Developer | BCA Student
 
-<h3>Aspiring AI/ML Engineer | Python Developer | BCA Student</h3>
-
-<p>
-  I explore machine learning, build intelligent applications, and turn ideas into working solutions.
-</p>
-
-</div>
+I explore machine learning, build intelligent applications, and turn ideas into working solutions.
 
 ---
 
@@ -123,24 +117,7 @@ Whatever an AI tool suggests, I try to test it, understand it, and explain it my
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dhanrajkandpal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanrajkandpal&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=dhanrajkandpal&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## Connect With Me
-
-<div align="center">
 
 <a href="https://github.com/dhanrajkandpal">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -149,8 +126,4 @@ Whatever an AI tool suggests, I try to test it, understand it, and explain it my
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br/><br/>
-
-<i>Learning by building. Improving through experimentation.</i>
-
-</div>
+*Learning by building. Improving through experimentation.*
