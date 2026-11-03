@@ -1,8 +1,14 @@
-# Hi, I'm Dhanraj Kandpal
+<div align="center">
 
-### Aspiring AI/ML Engineer | Python Developer | BCA Student
+<h1>Hi, I'm Dhanraj Kandpal</h1>
 
-I explore machine learning, build intelligent applications, and turn ideas into working solutions.
+<h3>Aspiring AI/ML Engineer | Python Developer | BCA Student</h3>
+
+<p>
+  I explore machine learning, build intelligent applications, and turn ideas into working solutions.
+</p>
+
+</div>
 
 ---
 
