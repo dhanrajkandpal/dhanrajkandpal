@@ -100,7 +100,7 @@ I built this during a college-organized online internship. I trained Random Fore
 
 ---
 
-## How AI Fits Into My Work
+## AI Usage
 
 I use AI tools as a sounding board and a teacher, not as a replacement for understanding the work. They help me:
 
@@ -110,8 +110,6 @@ I use AI tools as a sounding board and a teacher, not as a replacement for under
 - Draft and polish documentation
 
 Whatever an AI tool suggests, I try to test it, understand it, and explain it myself before I ship it.
-
----
 
 ## Currently Exploring
 
