@@ -72,7 +72,7 @@ I trained a Random Forest model to classify BMI categories, using SMOTE to handl
 
 **Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Streamlit, K-Means
 
-[Live Application]((https://fittin-nourish.onrender.com/))
+[Live Application](https://fittin-nourish.onrender.com/)
 
 ---
 
